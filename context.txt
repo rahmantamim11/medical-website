@@ -1,0 +1,103 @@
+extend: {
+    colors: {
+      hoverColor: "#FFC000",
+      brightColor: "#dd8036",
+      backgroundColor: "#36ae9a",
+    },
+  },
+
+  WellnessVista
+
+  #Home Section 
+  Empowering Health Choices for a Vibrant Life Your Trusted..
+
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam magnam omnis natus accusantium quos. Reprehenderit incidunt expedita molestiae impedit at sequi dolorem iste sit culpa, optio voluptates fugiat vero consequatur?
+
+
+  #About Section 
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam
+  labore rerum tempore tenetur commodi natus quos itaque voluptatum
+  repudiandae nostrum accusantium vero voluptate aspernatur totam,
+  laboriosam aut, et quae consequatur?
+
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora quia
+  suscipit illum, numquam incidunt nostrum dolor officia doloremque
+  cupiditate, placeat explicabo sed iure atque neque quidem ipsam!
+  Dolor, minus reiciendis.
+
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, illum.
+  Accusantium ab expedita veniam nobis aut, in rerum repellendus!
+  Exercitationem libero recusandae corrupti accusantium reiciendis in
+  placeat illo maxime ea.
+
+
+  
+  #Services section 
+
+  Lab Test
+
+  Health Check
+
+  Heart Health
+
+
+  #Doctors section 
+  const data = [
+    {
+      img: "/src/assets/img/doc1.jpg",
+      name: "Dr. Serena Mitchell",
+      specialties: "Orthopedic Surgeon",
+    },
+    {
+      img: "/src/assets/img/doc2.jpg",
+      name: "Dr. Julian Bennett",
+      specialties: "Cardiologist",
+    },
+    {
+      img: "/src/assets/img/doc3.jpg",
+      name: "Dr. Camila Rodriguez",
+      specialties: "Pediatrician",
+    },
+    {
+      img: "/src/assets/img/doc4.jpg",
+      name: "Dr. Victor Nguyen",
+      specialties: "Neurologist",
+    },
+    {
+      img: "/src/assets/img/doc5.jpg",
+      name: "Dr. Ethan Carter",
+      specialties: "Dermatologist",
+    },
+    {
+      img: "/src/assets/img/doc6.jpg",
+      name: "Dr. Olivia Martinez",
+      specialties: "Ophthalmologist",
+    },
+  ];
+
+
+  #Blog section 
+
+  Unraveling the Mysteries of Sleep
+
+  The Heart-Healthy Diet 
+
+  Understanding Pediatric Vaccinations
+
+  Navigating Mental Health
+
+  The Importance of Regular Exercise
+
+  Skin Health 101
+
+
+
+  #Footer section
+
+  Our team of dedicated doctors, each specializing in unique fields such as orthopedics, cardiology, pediatrics, neurology, dermatology, and more.
+
+  123 Elm Street, Suite 456 Springfield, IL 62701 United States
+
+  support@care.com
+
+  +123-456-7890
