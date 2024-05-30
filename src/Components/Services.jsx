@@ -18,18 +18,15 @@ const Services = () => {
 
   return (
     <div className=" min-h-screen flex flex-col justify-center lg:px-32 px-5 pt-24 lg:pt-16">
-      <div className=" flex flex-col items-center lg:flex-row justify-between">
+      <div className=" flex flex-col items-center justify-between">
         <div>
-          <h1 className=" text-4xl font-semibold text-center lg:text-start">
+          <h1 className=" text-4xl font-semibold text-center lg:text-center">
             Our Services
           </h1>
-          <p className=" mt-2 text-center lg:text-start">
+          <p className=" mt-2 text-center lg:text-center">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus,
             quidem.
           </p>
-        </div>
-        <div className=" mt-4 lg:mt-0">
-          <Button title="See Services" />
         </div>
       </div>
       <div className=" flex flex-col lg:flex-row gap-5 pt-14">

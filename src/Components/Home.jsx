@@ -15,8 +15,6 @@ const Home = () => {
           molestiae impedit at sequi dolorem iste sit culpa, optio voluptates
           fugiat vero consequatur?
         </p>
-
-        <Button title="See Services" />
       </div>
     </div>
   );

@@ -91,17 +91,17 @@ const Doctors = () => {
 
   return (
     <div className=" min-h-screen flex flex-col justify-center lg:px-32 px-5 pt-16">
-      <div className=" flex flex-col items-center lg:flex-row justify-between mb-10 lg:mb-0">
+      <div className=" flex flex-col items-center justify-between mb-10 lg:mb-0">
         <div>
-          <h1 className=" text-4xl font-semibold text-center lg:text-start">
+          <h1 className=" text-4xl font-semibold text-center lg:text-center">
             Our Doctors
           </h1>
-          <p className=" mt-2 text-center lg:text-start">
+          <p className=" mt-2 text-center lg:text-center">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus,
             quidem.
           </p>
         </div>
-        <div className="flex gap-5 mt-4 lg:mt-0">
+        <div className="flex gap-5 mt-4 lg:mt-4">
           <button
             className=" bg-[#d5f2ec] text-backgroundColor px-4 py-2 rounded-lg active:bg-[#ade9dc]"
             onClick={() => slider.current.slickPrev()}
